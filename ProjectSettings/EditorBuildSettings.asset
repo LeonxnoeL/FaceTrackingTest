@@ -5,7 +5,7 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 0
+  - enabled: 1
     path: Assets/Scenes/FaceTrackingUVDemo.unity
     guid: 9fc0d4010bbf28b4594072e72b8655ab
   - enabled: 0
@@ -14,14 +14,18 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/Scenes/FaceTrackingPipeline.unity
     guid: 134c1e82f55ca4998ba6670de7d600ea
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/FaceTrackingAnimated_1.unity
     guid: afb0fc20759ac4f4b83657ae15b12038
   - enabled: 0
     path: Assets/Scenes/FaceTrackingAnimated_2.unity
     guid: 2f60700ffb114419dabe815ff1847198
   m_configObjects:
+    com.unity.xr.arcore.PlayerSettings: {fileID: 11400000, guid: 389fed85c48a3064580b5857f5a00d9e,
+      type: 2}
     com.unity.xr.arkit.PlayerSettings: {fileID: 11400000, guid: 3a1a04454d44f473ba01bae96c1b8855,
+      type: 2}
+    com.unity.xr.management.arcore_loader: {fileID: 11400000, guid: eacfd29453df64c4288d83eb6c93134d,
       type: 2}
     com.unity.xr.management.arkit_loader: {fileID: 11400000, guid: 7992461a607fd4e7e85b169d5ab6dd8b,
       type: 2}
