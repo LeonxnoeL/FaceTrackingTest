@@ -21,11 +21,11 @@ EditorBuildSettings:
     path: Assets/Scenes/FaceTrackingAnimated_2.unity
     guid: 2f60700ffb114419dabe815ff1847198
   m_configObjects:
-    com.unity.xr.arcore.PlayerSettings: {fileID: 11400000, guid: 389fed85c48a3064580b5857f5a00d9e,
+    com.unity.xr.arcore.PlayerSettings: {fileID: 11400000, guid: 6be9c8574186c8c4a8d35be874838cc7,
       type: 2}
     com.unity.xr.arkit.PlayerSettings: {fileID: 11400000, guid: 3a1a04454d44f473ba01bae96c1b8855,
       type: 2}
-    com.unity.xr.management.arcore_loader: {fileID: 11400000, guid: eacfd29453df64c4288d83eb6c93134d,
+    com.unity.xr.management.arcore_loader: {fileID: 11400000, guid: b1c4286378b17a940a04866746e86705,
       type: 2}
     com.unity.xr.management.arkit_loader: {fileID: 11400000, guid: 7992461a607fd4e7e85b169d5ab6dd8b,
       type: 2}
